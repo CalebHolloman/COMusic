@@ -105,12 +105,11 @@ nav {
 .music-arts-learn-more{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .learn-more-logo1 img {
   width: 250px;
-  border: 1px solid green;
 }
 
 .learn-more-btn1{
@@ -120,12 +119,11 @@ nav {
 .music-fes-learn-more{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .learn-more-logo2 img {
   width: 205px;
-  border: 1px solid green;
 }
 
 .learn-more-btn2{
