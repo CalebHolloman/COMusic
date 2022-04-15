@@ -91,7 +91,6 @@ nav {
 }
 
 .main-para{
-  justify-content: center;
   inline-size: 598px;
   overflow-wrap: break-word;
   font-size: 20px;
@@ -111,7 +110,6 @@ nav {
 
 .learn-more-logo1 img {
   width: 250px;
-  border: 1px solid green;
 }
 
 .learn-more-btn1{
@@ -126,7 +124,6 @@ nav {
 
 .learn-more-logo2 img {
   width: 205px;
-  border: 1px solid green;
 }
 
 .learn-more-btn2{
