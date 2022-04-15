@@ -94,6 +94,7 @@ nav {
   inline-size: 598px;
   overflow-wrap: break-word;
   font-size: 20px;
+   justify-content: center;
 }
 
 .learn-more-links{
