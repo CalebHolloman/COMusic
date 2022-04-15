@@ -96,7 +96,11 @@ nav {
   font-size: 20px;
 }
 
-
+.learn-more-links{
+  display:flex;
+  width: 30%;
+  justify-content: space-around;
+}
 
 .music-arts-learn-more{
   display: flex;
