@@ -99,13 +99,13 @@ nav {
 .learn-more-links{
   display:flex;
   width: 30%;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .music-arts-learn-more{
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .learn-more-logo1 img {
