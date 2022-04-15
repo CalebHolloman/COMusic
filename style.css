@@ -105,11 +105,12 @@ nav {
 .music-arts-learn-more{
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .learn-more-logo1 img {
   width: 250px;
+  border: 1px solid green;
 }
 
 .learn-more-btn1{
@@ -124,8 +125,9 @@ nav {
 
 .learn-more-logo2 img {
   width: 205px;
+  border: 1px solid green;
 }
 
 .learn-more-btn2{
-text-align: center;
+  text-align: center;
 }
