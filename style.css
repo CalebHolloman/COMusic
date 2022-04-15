@@ -99,7 +99,7 @@ nav {
 .learn-more-links{
   display:flex;
   width: 30%;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .music-arts-learn-more{
