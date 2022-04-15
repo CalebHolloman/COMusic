@@ -110,6 +110,7 @@ nav {
 
 .learn-more-logo1 img {
   width: 250px;
+  padding: 10px 15px;
 }
 
 .learn-more-btn1{
@@ -124,8 +125,10 @@ nav {
 
 .learn-more-logo2 img {
   width: 205px;
+  padding: 10px 15px;
+
 }
 
 .learn-more-btn2{
-  text-align: center;
+text-align: center;
 }
